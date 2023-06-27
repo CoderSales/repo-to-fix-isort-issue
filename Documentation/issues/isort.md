@@ -1,5 +1,17 @@
 # isort.md
 
+## Process
+
+- reinstall vscode
+- ChatGPT3
+- open 02_end_to_end_machine_learning_project.ipynb
+- isort client not started error message appears
+- nb still runs
+- go to settings > Extensions > isort > Cut `C:\Users\steph\anaconda3\envs\mlbkenb\python.exe` from path for isort
+- isort error message not appearing now
+
+## References
+
 - [GitHub Issue | Couldn't start client isort | #199](https://github.com/microsoft/vscode-isort/issues/199)
 - [Visual Studio Code | Getting Started](https://code.visualstudio.com/docs/?dv=win)
 - [ChatGPT3](https://chat.openai.com/)
