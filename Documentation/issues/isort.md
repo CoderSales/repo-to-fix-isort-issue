@@ -7,7 +7,7 @@
 - open 02_end_to_end_machine_learning_project.ipynb
 - isort client not started error message appears
 - nb still runs
-- go to settings > Extensions > isort > Cut `C:\Users\steph\anaconda3\envs\mlbkenb\python.exe` from path for isort
+- go to settings > Extensions > isort > Path > Cut `C:\Users\steph\anaconda3\envs\mlbkenb\python.exe` from path for isort
 - isort error message not appearing now
 
 ## References
