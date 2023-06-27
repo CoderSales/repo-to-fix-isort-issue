@@ -1,0 +1,6 @@
+ipykernel
+isort
+jupyter
+notebook
+numpy
+pandas
