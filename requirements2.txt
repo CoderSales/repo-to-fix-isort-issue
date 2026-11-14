@@ -30,7 +30,7 @@ isoduration==20.11.0
 isort==8.0.1
 jedi==0.20.0
 Jinja2==3.1.6
-joblib==1.2.0
+joblib==1.5.3
 jsonpointer==3.1.1
 jsonschema==4.17.3
 jupyter==1.1.1
